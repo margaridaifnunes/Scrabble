@@ -1,7 +1,7 @@
 # Primeiro projeto de FP
 # Sou a Margarida Nunes (ist1117809), aluna do 1ºano da Licenciatura em Engenharia Informárica e de Computadores (Alameda).
 # O meu email institucional é: margarida.isabel.nunes@tecnico.ulisboa.pt
-# O meu email pessoal é: mifnunes2007@gmial.com
+# O meu email pessoal é: mifnunes2007@gmail.com
 
 LETRAS=['A','B','C','Ç','D','E','F','G','H','I','J','L','M','N','O','P','Q','R','S','T','U','V','X','Z']
 TAMANHO_TABULEIRO = 15
